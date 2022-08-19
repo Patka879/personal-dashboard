@@ -45,7 +45,6 @@ fetch('https://api.coingecko.com/api/v3/coins/bitcoin')
                 `
             })
             .catch(err => console.log(err))
-    
       });
     
 
